@@ -109,6 +109,9 @@ hr{
    right: 500px;
  }
 
+.land-pic{
+  position: relative;
+}
 
  .bottom-cloud {
    position: absolute;
